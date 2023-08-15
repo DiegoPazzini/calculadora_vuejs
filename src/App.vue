@@ -81,14 +81,14 @@ function alteraValor2(evento) {
   body{
     background-image: url(./images/fundo.jpg);
     background-size: contain;
-    background-color:#0c4b52;
+    background-color:#0c1152;
     display: flex;
     width: 100vw;
     height: 100vh;
     align-items: center;
   }  
   .container {
-    background-color: #0c4b52;
+    background-color: #a9b918;
     color:white;
     border-radius: 16px;
     padding-top: 50px;  
