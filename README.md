@@ -34,4 +34,4 @@ Calculadora desenvolvida com Vue.Js
 Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única.
 
 <h2>Visualização Online</h2>
-<p>A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link: https://vercel.com/diegopazzini/calculadora-vuejs
+<p>A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link: https://calculadora-vuejs-swart.vercel.app/
