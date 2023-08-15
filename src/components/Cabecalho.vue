@@ -8,5 +8,6 @@
     h1 {
         text-decoration: underline;
         margin-bottom: 50px;
+        color: rgb(7, 7, 66);
     }
 </style>
