@@ -26,21 +26,21 @@
     input{
         color: white;
         max-width: 130px;
-        background-color: #309d9a;
+        background-color: #181a19;
         font-weight: bold;
         text-align: center;
         margin: 0;
     
         &:hover{
-            background-color: #309d9a;
-            border-color: #309d9a;
-            outline-color: #309d9a;
+            background-color: #181a19;
+            border-color:#181a19;;
+            outline-color: #181a19;;
         }
 
         &:disabled{
-            background-color: #309d9a;
-            border-color: #309d9a;
-            outline-color: #309d9a;
+            background-color: #181a19;
+            border-color: #181a19;;
+            outline-color:#181a19;;
         }
             
         &::placeholder {
@@ -65,9 +65,9 @@
         border-color: red;
     }
     .escolha{
-        background-color: #309d9a;
+        background-color:#181a19;;
         color: white;
-        background-color: #309d9a;
+        background-color: #181a19;;
         min-width: 60px;
         max-width: 60px;
         margin: 0px 10px;
@@ -80,16 +80,14 @@
         margin: 0px 5px;
     }
     .btn__calcular {
-        background-color: #309d9a;
+        background-color: #29ca09;
         border-color: white;
         outline-color: white;
         margin-left: 20px;
         &:hover{
-            background-color: #309d9a;
-            border-color:#309d9a;
+            background-color: #181a19;
+            border-color:#181a19;
             outline-color: white;
         }
     }    
 </style>
-
-
